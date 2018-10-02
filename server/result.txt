@@ -1,0 +1,2 @@
+pict.jpg: Predicted in 12.537864 seconds.
+bed: 50%
