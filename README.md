@@ -13,5 +13,5 @@ After that recording is performed and image is sent to server.
 
 In order to process image on server you need to download weights in a server folder by
 ```
-wget https://pjreddie.com/media/files/yolov.weights
+wget https://pjreddie.com/media/files/yolo.weights
 ```
